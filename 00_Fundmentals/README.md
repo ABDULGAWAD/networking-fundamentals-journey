@@ -15,9 +15,13 @@ Centralization (optional): Some networks use centralized servers for management,
 # 📚 Types of Networks:
 
 LAN - (Local Area Network)	Covers a small area like a home, office, or building.
+
 WAN - (Wide Area Network)	Covers large areas; connects multiple LANs (e.g., the internet).
+
 MAN - (Metropolitan Area Network)	Spans a city or campus.
+
 WLAN - (Wireless LAN)	A LAN that uses wireless tech (e.g., Wi-Fi).
+
 PAN - (Personal Area Network)	Small network for devices around an individual (e.g., Bluetooth).
 
 # 🧠 Real-World Example:
